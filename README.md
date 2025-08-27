@@ -44,7 +44,7 @@ This project uses machine learning to detect hate speech and offensive language 
 
 ## Live Demo
 
-Try the app online: [Hate Speech Detection Streamlit App](https://hate-speech-detection-9idg8m3au5tdta8n4oedjk.streamlit.app/](https://hate-speech-detection-5fomh5noik27febumzbxto.streamlit.app/)
+Try the app online: [Hate Speech Detection Streamlit App](https://hate-speech-detection-5fomh5noik27febumzbxto.streamlit.app/)
 
 ## Requirements
 
